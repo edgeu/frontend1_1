@@ -1,0 +1,17 @@
+body {
+  font-family:arial;
+  background-color:papayawhip;
+}
+
+h1 {
+  color: purple;
+  font-style:italic;
+  border-bottom:4px solid red;
+}
+
+p {
+  border:1px solid skyblue;
+  background-color:pink;
+  padding:15px;
+  border-radius: 15px;
+}
